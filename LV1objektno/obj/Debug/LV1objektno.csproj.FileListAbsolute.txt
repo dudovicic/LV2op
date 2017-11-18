@@ -1,0 +1,27 @@
+c:\users\acer7\documents\visual studio 2012\Projects\LV1objektno\LV1objektno\bin\Debug\LV1objektno.exe.config
+c:\users\acer7\documents\visual studio 2012\Projects\LV1objektno\LV1objektno\bin\Debug\LV1objektno.exe
+c:\users\acer7\documents\visual studio 2012\Projects\LV1objektno\LV1objektno\bin\Debug\LV1objektno.pdb
+c:\users\acer7\documents\visual studio 2012\Projects\LV1objektno\LV1objektno\obj\Debug\LV1objektno.csprojResolveAssemblyReference.cache
+c:\users\acer7\documents\visual studio 2012\Projects\LV1objektno\LV1objektno\obj\Debug\LV1objektno.Form1.resources
+c:\users\acer7\documents\visual studio 2012\Projects\LV1objektno\LV1objektno\obj\Debug\LV1objektno.Properties.Resources.resources
+c:\users\acer7\documents\visual studio 2012\Projects\LV1objektno\LV1objektno\obj\Debug\LV1objektno.csproj.GenerateResource.Cache
+c:\users\acer7\documents\visual studio 2012\Projects\LV1objektno\LV1objektno\obj\Debug\LV1objektno.exe
+c:\users\acer7\documents\visual studio 2012\Projects\LV1objektno\LV1objektno\obj\Debug\LV1objektno.pdb
+C:\Users\ACER7\Desktop\LV1objektno\LV1objektno\bin\Debug\LV1objektno.exe.config
+C:\Users\ACER7\Desktop\LV1objektno\LV1objektno\obj\Debug\LV1objektno.exe
+C:\Users\ACER7\Desktop\LV1objektno\LV1objektno\obj\Debug\LV1objektno.pdb
+C:\Users\ACER7\Desktop\LV1objektno\LV1objektno\bin\Debug\LV1objektno.exe
+C:\Users\ACER7\Desktop\LV1objektno\LV1objektno\bin\Debug\LV1objektno.pdb
+C:\Users\ACER7\Desktop\LV1objektno\LV1objektno\obj\Debug\LV1objektno.csprojResolveAssemblyReference.cache
+C:\Users\ACER7\Desktop\LV1objektno\LV1objektno\obj\Debug\LV1objektno.Form1.resources
+C:\Users\ACER7\Desktop\LV1objektno\LV1objektno\obj\Debug\LV1objektno.Properties.Resources.resources
+C:\Users\ACER7\Desktop\LV1objektno\LV1objektno\obj\Debug\LV1objektno.csproj.GenerateResource.Cache
+C:\Users\ACER7\Desktop\LV1objektnoDraganaUdovicic\LV1objektno\bin\Debug\LV1objektno.exe.config
+C:\Users\ACER7\Desktop\LV1objektnoDraganaUdovicic\LV1objektno\obj\Debug\LV1objektno.exe
+C:\Users\ACER7\Desktop\LV1objektnoDraganaUdovicic\LV1objektno\obj\Debug\LV1objektno.pdb
+C:\Users\ACER7\Desktop\LV1objektnoDraganaUdovicic\LV1objektno\bin\Debug\LV1objektno.exe
+C:\Users\ACER7\Desktop\LV1objektnoDraganaUdovicic\LV1objektno\bin\Debug\LV1objektno.pdb
+C:\Users\ACER7\Desktop\LV1objektnoDraganaUdovicic\LV1objektno\obj\Debug\LV1objektno.csprojResolveAssemblyReference.cache
+C:\Users\ACER7\Desktop\LV1objektnoDraganaUdovicic\LV1objektno\obj\Debug\LV1objektno.Form1.resources
+C:\Users\ACER7\Desktop\LV1objektnoDraganaUdovicic\LV1objektno\obj\Debug\LV1objektno.Properties.Resources.resources
+C:\Users\ACER7\Desktop\LV1objektnoDraganaUdovicic\LV1objektno\obj\Debug\LV1objektno.csproj.GenerateResource.Cache
